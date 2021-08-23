@@ -1,7 +1,5 @@
 ## _VM Configuration_
 
-<br>
-
 ##### Name: POC-01
 ##### Configuration: 12 GB RAM, 4 VCPU, 100 GB SSD
 ##### Ubuntu 20.04 [Ubuntu Focal]

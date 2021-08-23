@@ -1,7 +1,5 @@
 ## _Reference_
 
-<br>
-
 - [Official Docker Installation Guide for Ubuntu](https://docs.docker.com/engine/install/ubuntu/)
 - [Official Docker Machine Installation Guide](https://docs.docker.com/machine/install-machine/)
 - [Official Releases for Docker Machine](https://github.com/docker/machine/releases)
