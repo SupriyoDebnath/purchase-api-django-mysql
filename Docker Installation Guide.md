@@ -14,7 +14,7 @@ apt remove docker docker.io containerd runc
 apt remove docker-engine
 ```
 
-## _Install Docker using Convenience Script `not recommended for Production`_
+## _Install Docker using Convenience Script `[not recommended for Production]`_
 ```sh
 curl -fsSL https://get.docker.com -o get-docker.sh
 DRY_RUN=1 sh ./get-docker.sh
