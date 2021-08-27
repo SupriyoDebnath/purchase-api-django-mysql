@@ -1,0 +1,6 @@
+username: Supriyo14
+password: pmd1$2021
+email: riyo_14@yahoo.in
+
+username: api_admin
+password: api$2021
