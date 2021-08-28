@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-g796=h1e5(3_r0e0-2%q+&*d2966f%#8pc08kxeunc6#n_(lf%
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['localhost']
+ALLOWED_HOSTS = ['localhost', '164.52.212.140']
 
 
 # Application definition
@@ -90,7 +90,8 @@ DATABASES = {
         },
         'USER': 'pm-user',
         'PASSWORD': 'pmuser@2021',
-        'HOST': '164.52.212.140',
+        # 'HOST': '164.52.212.140',
+        'HOST': 'pm-db',
         'PORT': '3306'
     }
 }

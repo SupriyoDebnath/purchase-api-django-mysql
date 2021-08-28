@@ -4,3 +4,6 @@ email: riyo_14@yahoo.in
 
 username: api_admin
 password: api$2021
+
+username: docker_user
+password: docker$2021
