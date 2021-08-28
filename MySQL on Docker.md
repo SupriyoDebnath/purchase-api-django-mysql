@@ -59,14 +59,15 @@ docker container logs pm-db
 random root password = ishiuzei9uj5ceilohHoh6da5na7Tiov
 docker exec -it pm-db sh
  > whoami
+ > apt update
+ > apt install procps
+ > ps -ef
  > exit
 ```
 
 ## _Check MySQL Installation_
 ```sh
 mysqlshow -u root -p
-apt update
-apt install procps
 ```
 
 ## _Create App User_

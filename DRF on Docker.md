@@ -44,6 +44,7 @@ docker inspect pm-app-mysql
 docker container logs pm-app-mysql
 docker exec -it pm-app-mysql sh
  > whoami
+ > ps -ef
  > exit
 ```
 
