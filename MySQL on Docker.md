@@ -76,5 +76,4 @@ mysql -u root -p
  > GRANT ALL ON *.* TO 'pm-user'@'%' WITH GRANT OPTION;
  > SHOW GRANTS FOR 'pm-user'@'%';
  > quit
- 
 ```
