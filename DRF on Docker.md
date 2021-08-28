@@ -44,6 +44,11 @@ docker inspect pm-app-mysql
 docker container logs pm-app-mysql
 docker exec -it pm-app-mysql sh
  > whoami
- > python3 manage.py migrate
- > python3 manage.py createsuperuser
  > exit
+```
+
+## _Run DRF Checks_
+```sh
+python3 manage.py migrate
+python3 manage.py createsuperuser
+```
