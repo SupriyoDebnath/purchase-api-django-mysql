@@ -172,6 +172,9 @@ SPECTACULAR_SETTINGS = {
     'SERVERS': [
         {
             'url': 'http://localhost:8000/pm-mysql/v1'
+        }, 
+        {
+            'url': 'http://164.52.212.140:8000/pm-mysql/v1'
         }
     ],
     'SCHEMA_PATH_PREFIX': '/pm-mysql/v[0-9]',
